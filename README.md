@@ -273,6 +273,9 @@ Options:
       --submodules
           Also fetch submodules
 
+      --lfs
+          Also fetch LFS references
+
   -h, --help
           Print help (see a summary with '-h')
 ```
